@@ -4,6 +4,6 @@ scikit-learn
 numpy
 tiktoken
 pandas
-pinecone
+pinecone-client
 
 #tomli
