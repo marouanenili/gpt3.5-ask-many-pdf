@@ -4,5 +4,6 @@ scikit-learn
 numpy
 tiktoken
 pandas
+pinecone
 
 #tomli
